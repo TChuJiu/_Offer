@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/problem031.dir/Problem/3_1数组中重复字.cc.o  -o problem031 -rdynamic 

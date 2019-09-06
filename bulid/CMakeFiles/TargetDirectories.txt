@@ -1,0 +1,7 @@
+/home/sr/project/Offer/_Offer/bulid/CMakeFiles/rebuild_cache.dir
+/home/sr/project/Offer/_Offer/bulid/CMakeFiles/problem05.dir
+/home/sr/project/Offer/_Offer/bulid/CMakeFiles/problem01.dir
+/home/sr/project/Offer/_Offer/bulid/CMakeFiles/edit_cache.dir
+/home/sr/project/Offer/_Offer/bulid/CMakeFiles/problem04.dir
+/home/sr/project/Offer/_Offer/bulid/CMakeFiles/problem031.dir
+/home/sr/project/Offer/_Offer/bulid/CMakeFiles/problem032.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/problem05.dir/Problem/5_字符串替换空格.cc.o  -o problem05 -rdynamic 
